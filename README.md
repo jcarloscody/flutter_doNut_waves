@@ -1,0 +1,1 @@
+flutter create --project-name card_luminoso --org br.com.githubjcarloscody --platforms android . 
